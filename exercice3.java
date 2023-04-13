@@ -1,3 +1,5 @@
+package projectjavajpoo;
+
 public class exercice3 {
     public static void main(String[] args) {
         int total = 0;
